@@ -1,0 +1,6 @@
+{
+  "name": "MarketPay",
+  "description": "Mercado de Previsões em Kwanza - Negocie o futuro com a maior liquidez de Angola. Previsões políticas, económicas e desportivas em tempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
